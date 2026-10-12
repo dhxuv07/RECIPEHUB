@@ -1,0 +1,6 @@
+com\recipeapp\model\RatingTest.class
+com\recipeapp\model\UserTest.class
+com\recipeapp\util\FirestoreMapperTest.class
+com\recipeapp\model\CommentTest.class
+com\recipeapp\concurrent\StatisticsSnapshotTest.class
+com\recipeapp\model\RecipeTest.class
